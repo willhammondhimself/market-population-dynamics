@@ -1,0 +1,11 @@
+# Rust build artifacts
+rust_core/target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
