@@ -1,5 +1,7 @@
 # Market Population Dynamics: Agent Heterogeneity and Price Convergence
 
+[![Rust](https://img.shields.io/badge/Rust-1.75+-orange.svg)](https://www.rust-lang.org/) [![PyO3](https://img.shields.io/badge/PyO3-Python_Bindings-blue.svg)](https://pyo3.rs/) [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/) [![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243.svg)](https://numpy.org/)
+
 **Author**: Will Hammond
 **Advisor**: Alan Kahn
 **Started**: March 2026
