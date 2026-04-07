@@ -1,0 +1,14 @@
+[project]
+name = "market-population-dynamics"
+version = "0.1.0"
+description = "Agent-based market simulation: three trader populations on the 2-simplex"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "matplotlib>=3.7",
+    "pytest>=7.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

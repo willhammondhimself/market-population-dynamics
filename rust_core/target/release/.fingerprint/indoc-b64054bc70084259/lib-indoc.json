@@ -1,0 +1,1 @@
+{"rustc":373507114769178674,"features":"[]","declared_features":"[]","target":8726396592336845528,"profile":1369601567987815722,"path":11893447152353523455,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/indoc-b64054bc70084259/dep-lib-indoc","checksum":false}}],"rustflags":["-C","split-debuginfo=packed"],"config":8247474407144887393,"compile_kind":0}
